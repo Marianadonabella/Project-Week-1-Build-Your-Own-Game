@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Password_Generator
+*[Mariana Donabella]*
 
-*[Your Cohort, Campus & Date]*
+*[DA, Barcelona & Jan 2021]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,13 +13,24 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The project consists in creating a code that generates a strong password.
+It is useful in our day to day life, for safety reasons.
 
 ## Rules
-Briefly describe the rules of the game.
+The user will chose how many caracters he/she wants in the password, and then what other rules the password should follow:
+- Should it have upper and lower cases? 
+- Should it have special caracters (! % & .) ?
+- Should it include numbers and letters?
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+The workflow consisted in :
+- Building a trello board
+- Researching the game
+- Forking the repository
+- Editing the readme (information)
+- Coding
+- Testing
+- Creating presentation
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
