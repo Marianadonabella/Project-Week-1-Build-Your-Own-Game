@@ -17,24 +17,24 @@ The project consists in creating a code that generates a strong password.
 It is useful in our day to day life, for safety reasons.
 
 ## Rules
-The user will chose how many caracters he/she wants in the password, and then what other rules the password should follow:
-- Should it have upper and lower cases? 
-- Should it have special caracters (! % & .) ?
-- Should it include numbers and letters?
+The user will chose how many characters he/she wants in the password, and the computer will generate a random and strong password: it will contain upper and lower letters, numbers, and special characters.
 
 ## Workflow
 The workflow consisted in :
 - Building a trello board
 - Researching the game
 - Forking the repository
-- Editing the readme (information)
+- Writing game structure
 - Coding
 - Testing
 - Creating presentation
+- Updating readme file
+- Last check
 
 ## Organization
-The organization of the project was make with Trello. 
-The organization of the code and ideas were made in regular handwritten notes, and then, nce settled, passed to jupyter notebook.
+The organization of the project was made with Trello. 
+The organization of the code and ideas were made in regular handwritten notes, and then, once settled, passed to jupyter notebook.
+All of the material used was put in one specific folder
 
 My repository contains:
 - The readme file
